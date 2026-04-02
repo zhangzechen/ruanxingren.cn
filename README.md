@@ -20,20 +20,25 @@
 - 电脑软件
 - 车机软件
 
-## 网站特点
+# 软星人文章导航
 
-根据首页公开信息，网站主要聚焦于：
+这里整理的是软星人站点的公开文章入口，仅作链接导航使用，不转载原文内容。
 
-- 精品软件分享
-- 热门游戏资源整理
-- 源码模板与建站资源
-- 办公、开发、娱乐类工具整合
-- 持续更新的实用互联网资源
+## 最新文章链接
 
-## 官方地址
+- [OK影视 v5.0.8 最新版下载｜影视播放器全套资源更新解码性能全面提升](https://www.ruanxingren.cn/152.html)
+- [FixPlus v1.56.148 一键擦除、AI 一键换衣，会员功能直接解锁](https://www.ruanxingren.cn/514.html)
+- [Pixiv - P站直连访问！手机电脑全平台可用，聚合多个资源一站搞定](https://www.ruanxingren.cn/513.html)
+- [PiuPiu酱 v2.1.9 - 无限聊天 + 永久记忆 + 高品质语音全部免费](https://www.ruanxingren.cn/512.html)
+- [薄荷下载 v1.3.6 - 磁力种子直链都能下，冷门资源也能轻松解析](https://www.ruanxingren.cn/511.html)
+- [魔核 v1.1.13 - 免费不限时长云游戏神器](https://www.ruanxingren.cn/510.html)
+- [自由浏览器 - 自带免费加速器，查学术资料很方便](https://www.ruanxingren.cn/507.html)
+- [昊昊听书 - 永久会员已开通！内置多条书源](https://www.ruanxingren.cn/506.html)
+- [闪豆视频下载器 v20260329 - 多平台批量下载，画质自选速度快](https://www.ruanxingren.cn/505.html)
+- [健身教练 Fitness Coach v1.1.25 - 解锁高级版！无需器材居家健身](https://www.ruanxingren.cn/504.html)
 
-[软星人官网](https://www.ruanxingren.cn/)
+## 原站地址
 
----
+- [软星人官网](https://www.ruanxingren.cn/)
+- [网站地图](https://www.ruanxingren.cn/sitemap.xml)
 
-本项目页面仅作网站公开信息介绍展示，具体内容请以官网实际页面为准。
