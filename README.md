@@ -36,7 +36,10 @@
 - [昊昊听书 - 永久会员已开通！内置多条书源](https://www.ruanxingren.cn/506.html)
 - [闪豆视频下载器 v20260329 - 多平台批量下载，画质自选速度快](https://www.ruanxingren.cn/505.html)
 - [健身教练 Fitness Coach v1.1.25 - 解锁高级版！无需器材居家健身](https://www.ruanxingren.cn/504.html)
-
+- [Tavo 酒馆AI 0.79.1，无敏感虚拟聊天无限制 ，可导入无限角色卡](https://www.ruanxingren.cn/340.html)
+- [Hypic醒图国际版v8.5.0绿色版-专业手机P图修图软件免费下载](https://www.ruanxingren.cn/64.html)
+- [Grok AI-v1.1.55 马斯克出品！实测可无敏感生图, 可生成视频](https://www.ruanxingren.cn/419.html)
+- 
 ## 原站地址
 
 - [软星人官网](https://www.ruanxingren.cn/)
